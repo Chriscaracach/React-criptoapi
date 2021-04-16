@@ -1,0 +1,47 @@
+body {
+  background-color: #2f5d62;
+}
+/*Header*/
+.header__container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #ffe268;
+}
+.header__img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 30px;
+  filter: opacity(80%);
+}
+.header__containerbutton {
+  margin-bottom: 30px;
+}
+.header__button {
+  width: 130px;
+  height: 70px;
+  font-size: 24px;
+  color: #2f5d62;
+  background-color: #f1f1f1;
+  border: none;
+  transition: 200ms;
+  border-radius: 10px;
+}
+.header__button:hover {
+  box-shadow: #1d8a96 0px 0px 15px 7px;
+  background-color: #56e2f1;
+  color: #fff;
+}
+/*List*/
+.list__container {
+}
+.list__ul {
+}
+/*Coin*/
+.coin__container {
+  background-color: #1d8a96;
+  color: #f1f1f1;
+}
+.coin__row {
+  font-size: 20px;
+}
